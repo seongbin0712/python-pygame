@@ -1,6 +1,8 @@
 import pygame
 import sys
 
+
+
 # 초기화
 pygame.init()
 pygame.display.set_caption('Jumping Dog')
