@@ -242,6 +242,7 @@ def main():
         pygame.display.update()
 
 
+
 def menu(death_count):
     global points
     run = True
@@ -269,7 +270,4 @@ def menu(death_count):
             if event.type == pygame.KEYDOWN:
                 main()
 
-
 menu(death_count=0)
-
-
