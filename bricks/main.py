@@ -112,4 +112,3 @@ while play:
   pygame.display.update()
 
 pygame.quit()
-
