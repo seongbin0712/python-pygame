@@ -222,5 +222,3 @@ while running:
           running = False
 
 pygame.quit()
-
-# 끝
