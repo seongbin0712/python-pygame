@@ -48,6 +48,7 @@ for i in range(10):
     color_block[i].append((random.randrange(255), random.randrange(132, 233), random.randrange(150, 255)))
 
 # 마우스 좌표 (마우스로 페달을 움직임)
+
 x_pos_mouse, y_pos_mouse = 0, 0
 
 # gameover 판정변수
