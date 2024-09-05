@@ -9,6 +9,7 @@ image = pygame.image.load("./images/bananas.png")
 sample_surface.blit(image, (35, 37))
 sample_surface.blit(image, (150, 150))
 
+
 color = (255, 255, 0)
 pygame.draw.rect(sample_surface, color, pygame.Rect(30, 30, 90, 90), 5)
 
