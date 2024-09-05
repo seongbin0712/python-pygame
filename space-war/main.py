@@ -171,6 +171,7 @@ while play:
       if ball[1] >= size_bg_height:
         balls.remove(ball)
 
+
   text_hp_pico = font_hp.render('pico'+str(hp_pico), True, (255, 255, 0))
   background.blit(text_hp_pico, (10, 10))      
   text_hp_rocket = font_hp.render('rocket'+str(hp_rocket), True, (255, 255, 0))
