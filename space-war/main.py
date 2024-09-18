@@ -1,7 +1,6 @@
 import pygame
 import random
 
-
 # 초기화 및 디스플레이 설정
 pygame.init()
 background = pygame.display.set_mode((480, 360))
