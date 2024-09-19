@@ -1,6 +1,7 @@
 import pygame
 import random
 
+
 pygame.init()
 
 background = pygame.display.set_mode((480, 360))
