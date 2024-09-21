@@ -5,7 +5,6 @@ pygame.init()
 background = pygame.display.set_mode((480, 360))
 pygame.display.set_caption("Monkey Bananas")
 
-
 # image를 로딩...
 image_bg = pygame.image.load("images/Blue-sky.png")
 image_banana = pygame.image.load("images/bananas.png")
